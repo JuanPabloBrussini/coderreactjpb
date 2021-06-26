@@ -1,0 +1,26 @@
+.card {
+    margin-top: 20px;
+    width: 30%;
+    margin-Right: auto;
+    margin-Left: auto;
+    padding-Top: 20px;
+    color:black;
+}
+.image {
+    width: 200px;
+    height: 200px;
+    margin-Right: 'auto';
+    margin-Left: 'auto',
+}
+    
+
+.icon {
+    font-Size : 14px;
+    color:black;
+}
+
+.text {
+    font-Size: 18px;
+    color:black;
+    font-weight: bold;
+}
