@@ -6,8 +6,8 @@ import "../ItemListContainer/items.css"
 
 const catalog = [
 {id:'1', name: 'Buzo Andes', brand: 'Le Port', price: 3999, initial: 2, min: 2, max: 5,},
-{id:'2', name: 'Buzo Andes', brand: 'Le Port', price: 3999, initial: 1, min: 1, max: 3, },
-{id:'3', name: 'Buzo Andes', brand: 'Le Port', price: 3999, initial: 4, min: 3, max: 6, }
+{id:'2', name: 'Buzo Aconcagua', brand: 'Dryfield', price: 5999, initial: 1, min: 1, max: 3, },
+{id:'3', name: 'Buzo Gaiman', brand: 'Animate', price: 4999, initial: 4, min: 3, max: 6, }
 ];
 
 const ItemList = function(){
